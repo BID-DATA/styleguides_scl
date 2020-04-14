@@ -1,4 +1,6 @@
-# This is an <h1> tag
+# Stata Styleguide - BID SCL
+@angela_user
+--
 
 Para asegurar que el código se comparta fácilmente entre un equipo y sea replicable por futuros usuarios, IDB-SCL recomienda que se sigan las mejores prácticas de codificación, programación y gestión de datos.
 
