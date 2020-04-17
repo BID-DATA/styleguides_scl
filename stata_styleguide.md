@@ -1,14 +1,12 @@
 # Stata Styleguide - BID SCL
 
-Welcome to the Armonizacion-SCL-code!
-
-# A.	Basic guidelines for do-file writers based on Baum (2016) and Cox (2005) 
+## A.	Basic guidelines for do-file writers based on Baum (2016) and Cox (2005) 
 
 Are our do-files readable and comprehensible – not only today, but also in several months?
 To assure this, we might apply some general rules to our codes. In this case the main ones would be:
-## 1.	Presentation. 
+### 1.	Presentation. 
 1.1.	Always include a comment containing the version number of your program, your name or initials, and the date the program was last modified above the program line. Be consistent with the information you provide in your do-files. I like to use the command dotemplate to be sure all my do-files are equally structured, and I can keep track of any version of my programs. 
-## 2.	Names. 
+### 2.	Names. 
 2.1.	Use sensible, intelligible names where possible for programs, variables, and macros. 
 Choose a name for your programs, indicators or variables that does not conflict with anything already existing. 
 2.2.	Use logical names for logical constants or variables. 
@@ -19,7 +17,7 @@ Ex.
 Indicator name tasa_ocupacion is easy to understand, logical and natural for all users but a bit long. 
 Indicator name tocu_ci can’t be naturally understood. Let’s avoid this kind of names if it is not a wide well-known acronym (such as PIB, IPC so on). 
 
-## 3.	Expressions. 
+### 3.	Expressions. 
 Type expressions so they are readable. Some possible rules are as follows: 
 a.	Put spaces around each binary operator except ^ (gen z = x + y is clear, but x ^ 2 looks odder than x^2). 
 
@@ -29,7 +27,7 @@ c.	Put a space after each comma in a function, etc. d. Use parentheses for reada
 
 
 
-## 4.	Flow control. 
+### 4.	Flow control. 
 
 Adopt a consistent style for flow control. 
 Stata has if, while, foreach, and forvalues structures that resemble those in many mainstream programming languages. Here is our set of rules: 
