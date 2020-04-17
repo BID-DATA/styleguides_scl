@@ -1,3 +1,9 @@
+---
+layout: default
+title: Stata Styleguide - BID SCL
+nav_order: 2
+---
+
 # Stata Styleguide - BID SCL
 
 ## A.	Basic guidelines for do-file writers based on Baum (2016) and Cox (2005) 
