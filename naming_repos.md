@@ -1,5 +1,10 @@
-## Naming rules:
+---
+layout: default
+title: GIT - Naming conventions  
+nav_order: 3
+---
 
+## Naming rules:
 - Descriptive
 - Readable
 - Consistent
