@@ -12,7 +12,7 @@
 Be specific You may find you have to differentiate between similar ideas later.
 
 ### Naming Conventions:
-Lowercase and underscores pattern: -> *type*_*source*_*division*
+Lowercase and underscores pattern: -> type_source_division
 - Type: Microdato, indicadores, tutorial, website
 - Source: encuestas hogares, imagenes satelitales, censos
 - Division: SCL - [edu, sph, gdi, mig]
