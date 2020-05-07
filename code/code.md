@@ -6,4 +6,7 @@ has_children: true
 permalink: /code/code
 ---
 
-# GIT
+# Code
+- [Stata](https://bid-scl.github.io/styleguides_scl/code/stata_styleguide.html)
+- [R - Pendiente]()
+- [Python - Pendiente]()
