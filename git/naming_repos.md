@@ -1,7 +1,8 @@
 ---
 layout: default
-title: GIT - Naming conventions  
-nav_order: 3
+Naming conventions
+parent: Git
+nav_order: 1
 ---
 
 ## Naming rules:
