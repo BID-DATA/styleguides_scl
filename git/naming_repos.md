@@ -1,6 +1,6 @@
 ---
 layout: default
-Naming conventions
+title: Naming conventions
 parent: git
 nav_order: 1
 ---
