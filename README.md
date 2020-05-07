@@ -1,9 +1,16 @@
 ## Documentación BID-SCL
 
-Esta es la documentacioń y guías de estilo de BID-SCL.
+This is the documentacioń and style guides of BID-SCL.
 
-Son un conjunto de convenciones sobre cómo escribir código dentro de la división. Es más fácil compartir y reusar código cuando se hace con un estilo consistente.
+## Code
+Set of conventions about how to write code within the sector. It's easier to share and reuse code when it's done in a consistent style.
+- Stata Styleguide - BID SCL
+- Python
+- R
 
-- [Stata](https://bid-scl.github.io/styleguides/stata_styleguide.html)
-- [R - Pendiente]()
-- [Python - Pendiente]()
+## GIT
+- Naming conventions
+- README
+
+## Data Catalog
+
