@@ -1,7 +1,7 @@
 ---
 layout: default
 Naming conventions
-parent: Git
+parent: git
 nav_order: 1
 ---
 
