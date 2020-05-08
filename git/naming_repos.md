@@ -23,7 +23,7 @@ Lowercase and underscores pattern: -> type_source_division
 - Source: encuestas hogares, imagenes satelitales, censos
 - Division: SCL - [edu, sph, gdi, mig]
 
-### Lenguage
+### Language
 - [Spanish or english] - But be consistent throughout the repository!
 
 ### Examples
