@@ -25,21 +25,21 @@ Always include a comment containing the version number of your program, your nam
 ### 3. Expressions
 3.1. Limit all lines to a maximum of 79 characters. For long statements use backslashes to continue and indentation to clearly distinguish  the continuation line.
 ```
-with open(‘{path}’) as file1, \
-         open(‘{path}’) as file2:
-         file2.write()
+with open("path") as file1, \
+     open("path") as file2:
+     file2.write()
 ```
 
 3.2. For mathematical expressions, always break expressions before binary operation for a better readability of the code. 
 ```
 # OK
 variable = (var1 
-                    + var2
-	     + var3)
+            + var2
+	    + var3)
 # NOT OK
 variable = (var1 +
-                    var2 +
-	     var3)
+            var2 +
+	    var3)
 ```
 
 3.3. Always surround binary operators (=, +=, -=, ==, <, >, !=, <>, <=, >=, in, not in, is, is not, and, or, not) with a single space on both sides.
@@ -47,11 +47,11 @@ variable = (var1 +
 3.4. Avoid multiple statements on the same line. 
 ```
 # OK
-if variable == ‘value’:
+if variable == 'value':
 	do
 
 # NOT OK
-If variable == ‘value’: do
+If variable == 'value': do
 ```
 
 ### 4. Further information 
