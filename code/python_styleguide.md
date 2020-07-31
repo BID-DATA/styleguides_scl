@@ -55,5 +55,5 @@ If variable == 'value': do
 ```
 
 ### 4. Further information 
-> Python, Structuring your project. Retrieved from https://docs.python-guide.org/writing/structure/
-> Rosuum, Guido van, Warsaw, Barry, and Coghlan, Nick (2001). PEP 8 – Style Guide for Python Code. Python. Retrieved from http://greentv.mobiloitte.com/FTP-LOCATION/CoodingGuidence/images/Style%20Guide%20for%20Python%20Code%20_%20Python.org.pdf
+> Python, Structuring your project. Retrieved from [link](https://docs.python-guide.org/writing/structure/) <br>
+> Rosuum, Guido van, Warsaw, Barry, and Coghlan, Nick (2001). PEP 8 – Style Guide for Python Code. Python. Retrieved from [link](http://greentv.mobiloitte.com/FTP-LOCATION/CoodingGuidence/images/Style%20Guide%20for%20Python%20Code%20_%20Python.org.pdf)
