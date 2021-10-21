@@ -29,6 +29,7 @@ Lowercase and underscores pattern: -> type_source_division
 ### Examples
 - microdatos_encuestas_hogares_scl
 - indicadores_encuestas_hogares_scl
+- indicadores_infraestructura_social_hud
 - tutorial_spatial_modelling_population_welfare_scl
 - website_fairlac_scl
 
