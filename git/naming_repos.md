@@ -19,7 +19,7 @@ Be specific You may find you have to differentiate between similar ideas later.
 
 ### Naming Conventions:
 Lowercase and underscores pattern: -> type_source_division
-- Type: Microdato, indicadores, tutorial, website
+- Type: microdatos, indicadores, tutorial, website, analytics
 - Source: encuestas hogares, imagenes satelitales, censos
 - Division: SCL - [edu, sph, gdi, mig]
 
@@ -32,4 +32,5 @@ Lowercase and underscores pattern: -> type_source_division
 - indicadores_infraestructura_social_hud
 - tutorial_spatial_modelling_population_welfare_scl
 - website_fairlac_scl
+- analytics_spatial_coverage_scl
 
