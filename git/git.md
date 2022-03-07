@@ -9,5 +9,5 @@ permalink: /git/git
 # GIT
 
 - [Naming conventions](https://bid-data.github.io/styleguides_scl/git/naming_repos.html)
-- [README]()
-- [LICENSE.txt]()
+- [README](https://github.com/BID-DATA/styleguide_plantilla_de_repositorio)
+- [LICENSE.txt](https://github.com/BID-DATA/styleguide_plantilla_de_repositorio#licencia)
