@@ -7,6 +7,6 @@ permalink: /code/code
 ---
 
 # Code
-- [Stata](https://bid-scl.github.io/styleguides_scl/code/stata_styleguide.html)
+- [Stata](https://bid-data.github.io/styleguides_scl/code/stata_styleguide.html)
 - [R - Pendiente]()
 - [Python - Pendiente]()
